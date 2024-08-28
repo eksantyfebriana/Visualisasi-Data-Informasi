@@ -1,20 +1,8 @@
----
-jupyter:
-  colab:
-  kernelspec:
-    display_name: Python 3
-    name: python3
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 0
----
-
 # RESUME JURNAL
 
 ```{=html}
 Judul Artikel     = Making data visualization more efficient and effective: a survey
-Jurnal             = The VLDB Journal
+Jurnal            = The VLDB Journal
 Volume & Halaman  = Vol. 29, halaman 93-117
 Tahun             = 2020
 Penulis           = Xuedi Qin, Yuyu Luo & Guoliang Li
