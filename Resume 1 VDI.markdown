@@ -1,4 +1,4 @@
-# RESUME JURNAL
+# RESUME ARTIKEL
 
 ```{=html}
 Judul Artikel     = Making data visualization more efficient and effective: a survey
@@ -53,7 +53,7 @@ yang sama dalam visualisasi data.
 
 ## **Hasil**
 
-#### **1. Berkembangnya Cara Untuk Memvisualisasikan Data** {#1-berkembangnya-cara-untuk-memvisualisasikan-data}
+#### **1. Berkembangnya Cara Untuk Memvisualisasikan Data**
 
 > Visualisasi data merupakan cara yang ampuh untuk menyajikan data
 > secara menarik yang mudah direpresentasikan oleh ilmuwan data dan
@@ -74,7 +74,7 @@ yang sama dalam visualisasi data.
 > memberikan rekomendasi yang secara otomatis melengkapi visualisasi
 > agar hasil yang didapatkan tidak ambigu.
 
-#### **2. Spesifikasi Visualisasi** {#2-spesifikasi-visualisasi}
+#### **2. Spesifikasi Visualisasi**
 
 > Bahasa Visualisasi terdiri dari tiga bagian berdasarkan
 > ekspresifitasnya yaitu (1) data, (2) tanda atau isyarat visual, dan
@@ -101,7 +101,7 @@ yang sama dalam visualisasi data.
 > referensi, berdasarkan kata kunci, dan berdasarkan bahasa natural yang
 > menyediakan antarmuka visual seperti pada *Evizeon*.
 
-#### **3. Pendekatan Yang Efisien Untuk Visualisasi Data** {#3-pendekatan-yang-efisien-untuk-visualisasi-data}
+#### **3. Pendekatan Yang Efisien Untuk Visualisasi Data**
 
 > **Visualisasi data eksak** bisa dilakukan karena menerjemahkan kueri
 > secara natural memiliki banyak kelemahan seperti banyak fungsionalitas
@@ -142,7 +142,7 @@ yang sama dalam visualisasi data.
 > kekurangannya adalah keterbatasan kognitif persepsi manusia dalam
 > mengidentifikasi.
 
-#### **4. Rekomendasi Visualisasi** {#4-rekomendasi-visualisasi}
+#### **4. Rekomendasi Visualisasi**
 
 > **Spesifikasi Tidak Lengkap** : Visualisasi yang tepat digunakan dalam
 > berbagai macam masalah adalah dengan mempertimbangkan beberapa faktor,
