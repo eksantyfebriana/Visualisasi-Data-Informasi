@@ -178,7 +178,7 @@ yang sama dalam visualisasi data.
 > **Rekomendasi Yang Dipersonalisasi** : mempertimbangkan histori dari
 > penggunanya.
 
-#### **Arah Penelitian Lainnya**
+#### **5. Arah Penelitian Lainnya**
 
 > Data yang akan divisualkan harus dibersihkan untuk menormalisasi
 > nilai, deduplikasi, menghapus nilai yang hilang, dan deteksi outlier.
