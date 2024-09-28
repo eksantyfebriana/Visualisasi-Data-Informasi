@@ -8,7 +8,7 @@
 
 # Good Visualization
 
-![**Gambar 1**](images/Energy Resource Infographic.jpeg){width="350"}
+![Energy Resource Infographic](https://github.com/user-attachments/assets/8d57548e-1db8-4882-bf60-dec624e3446c)
 
 Alasan Gambar 1 sebagai good visualization berdasarkan prinsip:
 
@@ -17,7 +17,7 @@ Alasan Gambar 1 sebagai good visualization berdasarkan prinsip:
 3.  Menciptakan Aksesibilitas melalui Desain yang Intuitif: Gambar 1 mudah dipahami, terutama pada bagian pro dan kontra. Informasi yang diberikan pun singkat padat sehingga visualisasi ini tidak overload dalam hal informasi. Terdapat sedikit kebingunan yang ada dalam visualisasi ini yaitu pada Top 10 Countries terdapat penggunaan warna yang tidak ada artinya.
 4.  Jangan Pernah Menipu Penerima: Secara keseluruhan, visualisasi ini tidak memberikan informasi yang salah. Data yang disajikan tampak sudah akurat walaupun terdapat missing yaitu tidak ditampilkannya sumber data di dalam visualisasi tersebut. Tidak terdapat informasi tentang tahun yang digunakan, sehingga sulit untuk membandingkannya dengan data terbaru.
 
-![**Gambar 2**](images/Perbedaan Metamorfosis Sempurna dan Tidak Sempurna.jpeg){width="350"}
+![Perbedaan Metamorfosis Sempurna dan Tidak Sempurna](https://github.com/user-attachments/assets/025046c1-039a-445c-abea-4877754abda5)
 
 Alasan Gambar 2 sebagai good visualization berdasarkan prinsip:
 
@@ -27,8 +27,7 @@ Alasan Gambar 2 sebagai good visualization berdasarkan prinsip:
 4.  Jangan Pernah Menipu Penerima: Gambar ini menyajikan informasi yang akurat dan tidak menyesatkan karena siklus hidup yang digambarkan sesuai dengan kenyataan
 
 # Bad Visualization
-
-![**Gambar 3**](images/Bad Infographics_ The Worst Infographics of 2020 - Venngage.jpeg){width="350"}
+![Bad Infographics_ The Worst Infographics of 2020 - Venngage](https://github.com/user-attachments/assets/77d75375-0ee3-48a0-84be-318dba6f7c99)
 
 Alasan Gambar 3 sebagai bad visualization berdasarkan prinsip:
 
@@ -36,8 +35,7 @@ Alasan Gambar 3 sebagai bad visualization berdasarkan prinsip:
 2.  Membenarkan Pemilihan Simbol: Pemilihan jenis visualisasi ini tidak sepenuhnya tepat untuk data yang disampaikan. Data yang berupa tren lebih cocok disajikan dalam bentuk grafik sederhana seperti bar chart atau histogram.
 3.  Menciptakan Aksesibilitas melalui Desain yang Intuitif: Visualisasi ini sangat sulit dipahami, terutama bagi orang yang asing dengan jenis grafik ini. Informasi tambahan yang diberikan dalam bentuk teks terlalu banyak dan sulit untuk dimengerti. Kurangnya konsisten dalam penggunaan warna juga bentuk membuat pembaca kesulitan membedakan data dari setiap negara, dan tidak ada legenda yang jelas sehingga menyulitkan interpretasi.
 4.  Jangan Pernah Menipu Penerima: Meskipun data yang ditampilkan mungkin akurat, namun cara penyajian dapat membuat pembaca salah menginterpretasi data sehingga memunculkan kesimpulan yang tidak akurat.
-
-[![**Gambar 4**](images/When Infographics Go Bad Or How Not To Design Data Visualization.jpeg)](https://pin.it/2sfcTW8Q5)
+![When Infographics Go Bad Or How Not To Design Data Visualization](https://github.com/user-attachments/assets/e51e62a5-b80f-48c6-ab8b-5c45004d08fb)
 
 Alasan Gambar 4 sebagai bad visualization berdasarkan prinsip:
 
